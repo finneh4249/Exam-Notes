@@ -29,7 +29,7 @@ Convert to decimal first, then to the target base.
 ## Truth Tables
 
 ### AND
-| p | q | p ^ q |
+| p | q | p & q |
 |---|---|-------|
 | T | T | T     |
 | T | F | F     |
